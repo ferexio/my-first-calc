@@ -1,2 +1,2 @@
-# my-first-calc
-My first calculator created in C
+# Ferexio first calculator
+Created in C with GCC
